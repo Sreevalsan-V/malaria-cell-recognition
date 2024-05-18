@@ -7,12 +7,12 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 ## Problem Statement and Dataset
 It involves achieving high accuracy in classifying malaria-infected cells versus uninfected cells to aid in the diagnosis of malaria from microscopic images. Your task would be to optimize the model, possibly by tuning hyperparameters, trying different architectures, or using techniques like transfer learning to improve classification accuracy.
 
-![alt text](image.png)
+![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/c34dcaa8-ceaf-4467-828c-77bfd5146cee)
+
 
 ## Neural Network Model
-![alt text](image-1.png)
+![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/a74c1901-9bd6-4c85-8fd4-d25878cd23de)
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
@@ -227,18 +227,22 @@ plt.show()
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![alt text](image-2.png)
+![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/d81c8343-d19c-4be9-b5a4-e6b35241a9ac)
+
 
 ### Classification Report
-![alt text](image-3.png)
+
+![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/e83d165e-df2a-4eda-9cc7-7725856624ca)
+
 
 ### Confusion Matrix
-![alt text](image-4.png)
+
+![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/ebb6adbe-6ce9-41e5-b0c9-8547600ccddf)
+
 
 ### New Sample Data Prediction
-![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/91054164-5844-49de-83ce-f4759858f04f)
 
-![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/7f8b2afc-583d-4078-8761-13c197f18338)
+![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/f8d29482-0335-4584-a2e9-299b2fffeb03)
 
 
 ## RESULT
