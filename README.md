@@ -237,6 +237,7 @@ plt.show()
 
 ### New Sample Data Prediction
 ![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/91054164-5844-49de-83ce-f4759858f04f)
+
 ![image](https://github.com/Sreevalsan-V/malaria-cell-recognition/assets/152585309/7f8b2afc-583d-4078-8761-13c197f18338)
 
 
