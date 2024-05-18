@@ -1,5 +1,8 @@
 # Deep Neural Network for Malaria Infected Cell Recognition
 
+### DEVELOPED BY:SREEVALSAN V
+### REG NO: 212223240158
+
 ## AIM
 
 To develop a deep neural network for Malaria infected cell recognition and to analyze the performance.
